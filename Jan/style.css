@@ -22,4 +22,25 @@
     opacity: 80%;
 }
 
-.servingTable {}
+.servingTable {
+    font-size: 8pt;
+    font-weight: bold;
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.blackbarthin {
+    display: flex;
+    width: auto;
+    background-color: black;
+    height: 2px;
+}
+
+.calories {
+    display: flex;
+    font-size: 12;
+    justify-content: space-between;
+    align-items: flex-end;
+}
