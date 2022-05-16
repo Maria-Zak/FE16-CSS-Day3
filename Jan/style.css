@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+
+.box {
+    border: 1px solid black;
+    width: 350px;
+}
+
+.blackbar {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 20px;
+    width: 90%;
+}
+
+.grayLineLong {
+    background-color: lightgray;
+    opacity: 80%;
+}
+
+.servingTable {}
